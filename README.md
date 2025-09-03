@@ -95,5 +95,5 @@ q_target = q1 + (q2 - q1) × (target - s1) / (s2 - s1)
 - **Total evaluations**: ~600 prediction scenarios per method
 
 ## Results
+<img width="747" height="327" alt="Screenshot 2025-09-03 173133" src="https://github.com/user-attachments/assets/5261a80a-5070-4ea5-a284-447d5ae13ef3" />
 
-![alt text](http://url/to/img.png)
